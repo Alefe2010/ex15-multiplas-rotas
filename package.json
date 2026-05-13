@@ -1,0 +1,8 @@
+{
+  "name": "ex15-multiplas-rotas",
+  "version": "1.0.0",
+  "description": "Exercício 15 — Múltiplas Rotas",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.18.2" }
+}
